@@ -1,0 +1,156 @@
+ ul li{display:inline;
+width:100%;
+}
+.main{
+  background-color:#eef ;
+  height:content;
+  width:100%;
+}
+#head{
+  background-color:pink;
+  height:content;
+  width:100%;
+  text-align:center;
+  
+ }
+#head ul li{
+  font-size:30px;
+  padding:20px;
+  text-align:center;
+  font-family:algerian;
+  color:black;
+}
+#cn{
+font-family:forte;
+text-align:left;
+font-size:30px;
+}
+#about{
+  font-size:1.5em;
+  font-family:constantia;
+  text-align:center;
+  padding:100px;
+  width:100%;
+  height:content;
+  background-color:lightblue;
+    
+}
+
+#pic{
+  height:250px;
+  widthn:50px;
+  border:5px solid lightyellow;
+  
+}
+
+.footer{ 
+       position: fixed;     
+       text-align: center;    
+       bottom: 0px; 
+       width: 100%;
+  background-color:black;
+  color:white;
+   } 
+#bg{
+  margin-top:5px;
+  margin-left:5px;
+  margin-right:5px;
+  background-color:lightyellow;
+}
+#de{
+  text-align:center;
+  background-color:#eef;
+  font-family:modern no.20;
+  font-size:1.3em;
+  margin-left:5px;
+  margin-right:5px;
+  
+}
+html,body{
+  background-color: lightblue
+    !important;
+  height:content;
+  width:content;
+  
+}
+
+#contact{
+  background-color:lightblue !important;
+  height:100%;
+  width:parent;
+  padding:100px;
+  min-height: 100px;
+overflow: hidden;
+  
+}
+#context{
+  font-size:20px;
+  text-align:center;
+  color:darkblue;
+  
+}
+
+.icons{
+  text-align:center;
+  padding:10px;
+}
+#portfolio{
+  
+  background-color:#fdf !important;
+  height:100%;
+  width:100%;
+  padding:80px;
+}
+
+.img-img{
+margin-right:5px;
+margin-left:5px;
+border:5px solid black;
+display:inline;
+
+}
+
+#pr{
+font-family:forte;
+text-align:left;
+font-size:30px;
+}
+#im1{
+height:20em;
+width:30em;
+margin-left:px;
+margin-right:50px;
+padding:10px;  
+ text-align:center;
+  
+
+}
+#im2{
+height:20em;
+width:30em;
+margin-left:5px;
+margin-right:50px;
+  padding:10px;
+}
+.ff{
+  font-size:20px;
+  color:red;
+}
+.lili{
+  width:100%;
+}
+.clr1 {
+  color:black;
+}
+#im3{
+height:20em;
+width:30em;
+margin-left:5px;
+margin-right:50px;
+padding:10px;
+}
+#abt{
+text-align:left;
+font-family:forte;
+}
+
